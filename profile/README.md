@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Scalekit
+  # scalekit
 
   **Auth and actions on behalf of users**
 </div>
