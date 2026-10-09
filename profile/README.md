@@ -15,10 +15,11 @@
 
 Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
 
- **🎯 MCP Auth** - Turnkey OAuth 2.1 authorization server for MCP servers
- **🔗 Agent Connect** - Auth and actions on behalf of users, with 500+ connectors and 20,000+ tools
- **👤 User Auth Stack** - Passwordless, social, and enterprise authentication
- **🔧 API Auth Stack** - Secure organization and user-level API access
+ **🎯 MCP Auth** - Turnkey OAuth 2.1 MCP auth for MCP servers
+ **🚪 Agent Gateway** - One gateway between your agents and every tool they need.
+ **🔗 AgentKit** - Agent integrations, tool calling, MCP integrations, and MCP tooling, with per-user OAuth, a token vault, and 500+ connectors
+ **👤 User auth** - Passwordless, social, and enterprise login
+ **🔧 API auth** - Organization and user API access
 
 
  [![Docs](https://img.shields.io/badge/Docs-4f5eff?style=flat&logo=readthedocs&logoColor=white)](https://docs.scalekit.com) [![Get Started](https://img.shields.io/badge/Get_Started-6366f1?style=flat)](https://app.scalekit.com&utm_source=github) [![Blog](https://img.shields.io/badge/Blog-8b5cf6?style=flat&logo=hashnode&logoColor=white)](https://www.scalekit.com/blog)
